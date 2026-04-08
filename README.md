@@ -1,1 +1,2 @@
-# Repoprint("Hello world")
+
+print("Hello world")
